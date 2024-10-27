@@ -29,3 +29,15 @@ Both the backend and frontend were generated using [Databutton](https://databutt
 
 - [Orchestrating Agents: Routines and Handoffs](https://cookbook.openai.com/examples/orchestrating_agents)
 
+----
+
+### Similar Agentic System Building video 
+
+[Github Repo](https://github.com/avrabyt/Multi-Agent-System-apps)
+
+Live Streaming video
+[![(Not Just Hype!) Build a Multi-Agent AI App with Just Prompts? Watch Live—A Real Backend & Slick UI](https://img.youtube.com/vi/GiAqN402Kgs/maxresdefault.jpg)](https://youtu.be/GiAqN402Kgs)
+
+### Resources
+- [Phidata docs](https://docs.phidata.com/agents)
+- [Databutton](https://databutton.com)
